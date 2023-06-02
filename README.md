@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-<h2> Hey there! I'm Ryan Zhang, aka Programmer-RZ.</h2>
+I'm Ryan Zhang, aka Programmer-RZ. I'm a teen stuck in his room
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
