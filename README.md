@@ -21,7 +21,7 @@ I'm Ryan Zhang, aka Programmer-RZ. I'm a teen stuck in his room
 
 <br/>
 
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/Programmer-RZ">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Programmer-RZ&theme=buefy&layout=compact" />
 </a>
 
