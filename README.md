@@ -5,7 +5,7 @@ I'm Ryan Zhang, aka Programmer-RZ. I'm a teen stuck in his room
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Learning computer science
+- 🎓 &nbsp; Learning computer science while still in school :)
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
