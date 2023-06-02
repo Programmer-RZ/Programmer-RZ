@@ -30,7 +30,7 @@ I'm Ryan Zhang, aka Programmer-RZ. I'm a teen stuck in his room
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="left">
-<a href="https://stackoverflow.com/users/21636826/programmer-rz?tab=profile/"><img alt="StackOverflow" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
+<a href="https://stackoverflow.com/users/21636826/programmer-rz?tab=profile/"><img alt="StackOverflow" src="https://img.shields.io/badge/-StackOverflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white"></a>
 </p>
 
 ⭐️ From [Programmer-RZ](https://github.com/Programmer-RZ)
