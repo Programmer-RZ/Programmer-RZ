@@ -1,4 +1,4 @@
-### Hi there! 👋
+# Hi there! 👋
 
 I'm Ryan Zhang, aka Programmer-RZ. I'm a teen stuck in his room
 
