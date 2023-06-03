@@ -22,7 +22,7 @@ I'm Ryan Zhang, aka Programmer-RZ.
 <br/>
 
 <a href="https://github.com/Programmer-RZ">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Programmer-RZ&theme=buefy&layout=compact" />
+  <img height="360em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Programmer-RZ&theme=buefy&layout=donut" />
 </a>
 
 <br/>
