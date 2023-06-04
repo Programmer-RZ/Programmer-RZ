@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&width=435&lines=Hi%2C+I'm+Programmer-RZ;Welcome+to+my+profile)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&width=435&lines=I'm+Programmer-RZ;Welcome+to+my+profile)](https://git.io/typing-svg)
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
