@@ -35,3 +35,5 @@
 
 ⭐️ From [Programmer-RZ](https://github.com/Programmer-RZ)
 
+Thanks to <a href="https://www.flaticon.com/free-icons/programmer" title="programmer icons">Programmer icons created by Hight Quality Icons - Flaticon</a> for my profile pic :)
+
