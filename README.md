@@ -1,6 +1,5 @@
-# Hi there! 👋
 
-I'm Ryan Zhang, aka Programmer-RZ.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&repeat=false&width=435&lines=Hi%2C+I'm+Programmer-RZ;Welcome+to+my+profile)](https://git.io/typing-svg)
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
@@ -22,7 +21,8 @@ I'm Ryan Zhang, aka Programmer-RZ.
 <br/>
 
 <a href="https://github.com/Programmer-RZ">
-  <img height="360em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Programmer-RZ&theme=buefy&layout=donut" />
+  <img height="240em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Programmer-RZ&theme=buefy&layout=donut" />
+  <img height="240em" src="https://github-readme-streak-stats.herokuapp.com/?user=Programmer-RZ&theme=radical&hide_border=true" />
 </a>
 
 <br/>
