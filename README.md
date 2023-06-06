@@ -33,6 +33,10 @@
 <a href="https://stackoverflow.com/users/21636826/programmer-rz?tab=profile/"><img alt="StackOverflow" src="https://img.shields.io/badge/-StackOverflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white"></a>
 </p>
 
+<h3> ⚒️ What I'm working on </h3>
+- RayTracer editor in C++
+- Grapher in Python
+
 ⭐️ From [Programmer-RZ](https://github.com/Programmer-RZ)
 
 Thanks to <a href="https://www.flaticon.com/free-icons/programmer" title="programmer icons">Programmer icons created by Hight Quality Icons - Flaticon</a> for my profile pic :)
