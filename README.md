@@ -27,15 +27,16 @@
 
 <br/>
 
+<h3> ⚒️ &nbsp;What I'm working on </h3>
+
+- Grapher in Python
+- RayTracer editor in C++
+
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="left">
 <a href="https://stackoverflow.com/users/21636826/programmer-rz?tab=profile/"><img alt="StackOverflow" src="https://img.shields.io/badge/-StackOverflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white"></a>
 </p>
-
-<h3> ⚒️ What I'm working on </h3>
-- RayTracer editor in C++
-- Grapher in Python
 
 ⭐️ From [Programmer-RZ](https://github.com/Programmer-RZ)
 
