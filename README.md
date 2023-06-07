@@ -18,12 +18,12 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat&logo=visual-studio&logoColor=white)
 
-<br/>
-
 <h3> ⚒️ &nbsp;What I'm working on </h3>
 
 - Grapher in Python
 - RayTracer editor in C++
+
+<br/>
 
 <a href="https://github.com/Programmer-RZ">
   <img height="240em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Programmer-RZ&theme=buefy&layout=donut" />
