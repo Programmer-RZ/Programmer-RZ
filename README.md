@@ -20,17 +20,17 @@
 
 <br/>
 
+<h3> ⚒️ &nbsp;What I'm working on </h3>
+
+- Grapher in Python
+- RayTracer editor in C++
+
 <a href="https://github.com/Programmer-RZ">
   <img height="240em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Programmer-RZ&theme=buefy&layout=donut" />
   <img height="240em" src="https://github-readme-streak-stats.herokuapp.com/?user=Programmer-RZ&theme=radical&hide_border=true" />
 </a>
 
 <br/>
-
-<h3> ⚒️ &nbsp;What I'm working on </h3>
-
-- Grapher in Python
-- RayTracer editor in C++
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
