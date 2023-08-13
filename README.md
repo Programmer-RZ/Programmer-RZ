@@ -20,7 +20,7 @@
 
 <h3> ⚒️ &nbsp;What I'm working on </h3>
 
-- 🟥 Tetris in Python
+- 🌳 Directory tree in Python
 - 🥏 RayTracer editor in C++
 
 <br/>
