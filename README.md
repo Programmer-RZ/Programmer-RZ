@@ -21,7 +21,7 @@
 <h3> ⚒️ &nbsp;What I'm working on </h3>
 
 - 🌳 Directory tree in Python
-- 🥏 RayTracer editor in C++
+- 🟥 Tiled scrolling platformer in C++
 
 <br/>
 
