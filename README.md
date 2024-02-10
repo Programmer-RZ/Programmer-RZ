@@ -20,8 +20,7 @@
 
 <h3> ⚒️ &nbsp;What I'm working on </h3>
 
-- 🌳 Directory tree in Python
-- 🟥 Tiled scrolling platformer in C++
+- ♟️Chess in Python
 
 <br/>
 
