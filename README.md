@@ -20,7 +20,7 @@
 
 <h3> ⚒️ &nbsp;What I'm working on </h3>
 
-- ♟️Chess in Python
+- 🐦Flocking simulation
 
 <br/>
 
