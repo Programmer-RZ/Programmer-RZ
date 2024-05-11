@@ -20,7 +20,7 @@
 
 <h3> ⚒️ &nbsp;What I'm working on </h3>
 
-- 🐦Flocking simulation
+- 🔤Wordle Bot
 
 <br/>
 
